@@ -1,0 +1,35 @@
+* {
+    background-color: #f8fcff;
+  
+}
+
+.menü li a{
+   display: block;
+   margin: 0px;
+  padding-top: 10px;
+  padding-right: 35px;
+  padding-bottom: 10px;
+  padding-left: 35px;
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  
+
+}
+
+ .menü li{
+    float: left;
+    list-style-type: none;
+    
+}
+
+.container {
+    display: flex;
+  justify-content: center;
+   
+}
+
+.container-li li {
+    list-style-position: inside;
+    text-align: center;
+}
